@@ -17,6 +17,11 @@ func TagCheck() string {
     return "Tag check"
 }
 
+// TagFormat ...
+func TagFormat() string {
+    return "Can be w/o v"
+}
+
 // Proverb ...
 func Proverb() string {
     return quote.Concurrency()
