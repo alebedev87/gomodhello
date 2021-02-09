@@ -5,6 +5,7 @@ Go tools will query VCS of your module, so, the name needs to be a full URL to y
 ```bash
 $ git config remote.origin.url
 https://github.com/alebedev87/gomodhello.git
+$ go mod init github.com/alebedev87/gomodhello
 $ go list -m
 github.com/alebedev87/gomodhello
 ```
