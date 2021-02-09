@@ -1,4 +1,4 @@
-# Example of how to create a Go module in GitHub
+# How to create a Go module in GitHub
 
 ## Module name
 Go tools will query VCS of your module, so, the name needs to be a full URL to your git repository.   
